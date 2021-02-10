@@ -1,2 +1,2 @@
-import '../script';
+import './script';
 console.log('App   ');
